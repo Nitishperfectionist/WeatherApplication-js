@@ -27,3 +27,8 @@
 -Weather Forecasts: Users can view weather forecasts for various locations and also for current location
 -Toast Notifications: Implemented toast notifications for providing user alerts and notifications.
 
+# To run the Weather Map Application directly, follow these steps:
+
+1.Open Terminal: Right-click in the project directory and select "Open Terminal" or "Open in Terminal".
+
+2.Start Live Server: Once the Terminal is open, type the command to start a live server. If you're using VS Code, you can use an extension like "Live Server". Right-click on the index.html file and select "Open with Live Server".
