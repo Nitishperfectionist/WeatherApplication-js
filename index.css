@@ -201,9 +201,9 @@ h1 {
 }
 
 .theme-toggle {
-  position: fixed;
+  position: absolute;
   top: 20px;
-  right: 20px;
+  right: 10px;
   padding: 10px 20px;
   background-color: var(--button-bg-color);
   color: #fff;
@@ -221,9 +221,9 @@ body.dark .theme-toggle {
 }
 
 .current-time {
-  position: fixed;
+  /* position: fixed; */
   top: 20px;
-  left: 20px;
+  left: 10px;
   background: var(--current-weather-bg-color);
   color: #fff;
   padding: 10px;
@@ -232,7 +232,7 @@ body.dark .theme-toggle {
 
 #toast {
   position: fixed;
-  bottom: 20px;
+  top: 20px;
   right: 20px;
   min-width: 200px;
   padding: 10px;
